@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian Zeler.
 - 👀 I’m interested in technology and knowledge sharing.
 I like simple, solid and pragmatic things, here you will only find basic code understandable by everyone.
-- 🌱 I’m currently working as consultant on various domain
+- 🌱 I’m currently working as consultant on various domains
 - 💞️ I'm looking to collaborate on nothing specific, I only work on what I like.
 - 📫 How to reach me: christian@comdif.com
 
